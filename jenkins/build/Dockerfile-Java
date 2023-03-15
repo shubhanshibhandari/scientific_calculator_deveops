@@ -1,0 +1,8 @@
+FROM openjdk:8
+
+RUN mkdir /app
+
+COPY ./target/Calculator-Using-DevOps-1.0-SNAPSHOT-jar-with-dependencies.jar /app/app.jar
+
+CMD ["java", "-jar", "/app/app.jar"]
+

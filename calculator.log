@@ -1,0 +1,32 @@
+2023-03-15 21:49:55.950 [main] INFO  org.example.Calculator - [DIVISION] - 15.0 0.0
+2023-03-15 21:49:55.964 [main] INFO  org.example.Calculator - [ADDITION] - 15.0 20.0
+2023-03-15 21:49:55.964 [main] INFO  org.example.Calculator - [RESULT] - 35.0
+2023-03-15 21:49:55.970 [main] INFO  org.example.Calculator - [COS] - 4.0
+2023-03-15 21:49:55.970 [main] INFO  org.example.Calculator - [RESULT] - -0.6536436208636119
+2023-03-15 21:49:55.975 [main] INFO  org.example.Calculator - [SIN] - 4.0
+2023-03-15 21:49:55.975 [main] INFO  org.example.Calculator - [RESULT] - -0.7568024953079282
+2023-03-15 21:49:55.981 [main] INFO  org.example.Calculator - [TAN] - 4.0
+2023-03-15 21:49:55.982 [main] INFO  org.example.Calculator - [RESULT] - 1.1578212823495775
+2023-03-15 21:49:55.986 [main] INFO  org.example.Calculator - [SUBTRACTION] - 25.0 20.0
+2023-03-15 21:49:55.986 [main] INFO  org.example.Calculator - [RESULT] - 5.0
+2023-03-15 21:49:55.991 [main] INFO  org.example.Calculator - [POW] - 4.0 2.0
+2023-03-15 21:49:55.991 [main] INFO  org.example.Calculator - [RESULT] - 16.0
+2023-03-15 21:49:55.997 [main] INFO  org.example.Calculator - [SQRT] - 4.0
+2023-03-15 21:49:55.998 [main] INFO  org.example.Calculator - [RESULT] - 2.0
+2023-03-15 21:49:56.002 [main] INFO  org.example.Calculator - [FACTORIAL] - 5.0
+2023-03-15 21:49:56.002 [main] INFO  org.example.Calculator - [RESULT] - 120.0
+2023-03-15 21:49:56.008 [main] INFO  org.example.Calculator - [NATURAL LOG A] - 0.0
+2023-03-15 21:49:56.013 [main] INFO  org.example.Calculator - [DIVISION] - 56.0 10.0
+2023-03-15 21:49:56.013 [main] INFO  org.example.Calculator - [RESULT] - 5.6
+2023-03-15 21:49:56.017 [main] INFO  org.example.Calculator - [NATURAL LOG A] - 5.0
+2023-03-15 21:49:56.018 [main] INFO  org.example.Calculator - [RESULT] - 1.6094379124341003
+2023-03-15 21:49:56.021 [main] INFO  org.example.Calculator - [MULTIPLICATION] - 10.0 25.0
+2023-03-15 21:49:56.021 [main] INFO  org.example.Calculator - [RESULT] - 250.0
+2023-03-15 21:49:56.025 [main] INFO  org.example.Calculator - [FACTORIAL] - -5.0
+2023-03-15 21:49:56.028 [main] INFO  org.example.Calculator - [SQRT] - -3.0
+2023-03-15 21:49:56.035 [main] INFO  org.example.Calculator - [SQUARED] - 4.0
+2023-03-15 21:49:56.036 [main] INFO  org.example.Calculator - [RESULT] - 16.0
+2023-03-15 21:50:44.199 [AWT-EventQueue-0] INFO  org.example.Calculator - [FACTORIAL] - 32.0
+2023-03-15 21:50:44.203 [AWT-EventQueue-0] INFO  org.example.Calculator - [RESULT] - 2.631308369336935E35
+2023-03-15 21:51:10.415 [AWT-EventQueue-0] INFO  org.example.Calculator - [MULTIPLICATION] - 21.0 15.0
+2023-03-15 21:51:10.415 [AWT-EventQueue-0] INFO  org.example.Calculator - [RESULT] - 315.0
