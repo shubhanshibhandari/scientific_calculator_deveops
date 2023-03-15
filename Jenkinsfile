@@ -28,11 +28,11 @@ pipeline {
                 sh './jenkins/test/mvn.sh mvn test'
             }
 
-            post {
-                always {
-                    junit 'target/surefire-reports/*.xml'
-                }
-            }
+//             post {
+//                 always {
+//                     junit 'target/surefire-reports/*.xml'
+//                 }
+//             }
         }
         stage('building docker image') {
                     steps {
