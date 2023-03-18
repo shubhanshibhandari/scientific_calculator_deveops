@@ -26,13 +26,13 @@ pipeline {
         stage('Test') {
             steps {
                 sh './jenkins/test/mvn.sh mvn test'
-            }
+            }exi
 
-//             post {
-//                 always {
-//                     junit 'target/surefire-reports/*.xml'
-//                 }
-//             }
+            post {
+                always {
+                    junit 'target/surefire-reports/*.xml'
+                }
+            }
         }
         stage('building docker image') {
                     steps {

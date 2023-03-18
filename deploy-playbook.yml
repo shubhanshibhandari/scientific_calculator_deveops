@@ -17,7 +17,12 @@
       docker_container:
         name: calculator-using-devops
         image: "{{user}}/{{image}}:{{tag}}"
+        env:
+          DISPLAY=:0
         state: started
         tty: yes
         interactive: yes
+        volumes:
+          /logs:/logs
+
 
