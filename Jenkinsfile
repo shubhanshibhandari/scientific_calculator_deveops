@@ -26,7 +26,7 @@ pipeline {
         stage('Test') {
             steps {
                 sh './jenkins/test/mvn.sh mvn test'
-            }exi
+            }
 
             post {
                 always {
